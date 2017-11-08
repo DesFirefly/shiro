@@ -1,9 +1,9 @@
 package com.ty.shiro.tyShiroTest.strategy;
 
-import org.apache.shiro.authc.credential.HashingPasswordService;
+
 import org.apache.shiro.crypto.hash.Md5Hash;
 import org.apache.shiro.crypto.hash.SimpleHash;
-import org.omg.CORBA.StringHolder;
+
 
 /**
  * 
